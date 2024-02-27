@@ -5,6 +5,7 @@ const MyResumes = () => {
     <div>
       <h2>MyResumes</h2>
       <p>lorem</p>
+      <p>lorem</p>
     </div>
   );
 };
